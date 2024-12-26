@@ -31,7 +31,7 @@
     <img width="12" />
     <img width="50" height="50" src="icons/runcodes.png" alt="run.codes Logo">
     <img width="12" />
-    <img width="50" height="50" src="icons/leetcode.png" alt="Leetcode logo">
+    <img width="50" height="50" src="icons/leetcode.png" alt="LeetCode logo">
 </div>
 
 ###
@@ -40,7 +40,7 @@
 
 ###
 
-<p>Special thank you for all people that contributed for this project.</p>
+<p>Special thanks to all the wonderful people who contributed to this project!</p>
 
 ###
 
@@ -67,7 +67,9 @@
 
 ###
 
-<h2>😄 Reach me out!</h2>
+<h2>😄 Reach Out!</h2>
+
+<p>Feel free to connect with me on any of the following platforms:</p>
 
 <div align="left">
 <a href="https://github.com/alexbeldam" target="_blank">
