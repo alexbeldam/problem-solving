@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td align="center">
-      <a href="#">
+      <a href="https://github.com/alexbeldam">
         <img src="icons/alex.jpg" width="100px;" alt="Alex Souza"/><br>
         <sub>
           <b>Alex Souza</b>
@@ -72,9 +72,6 @@
 <p>Feel free to connect with me on any of the following platforms:</p>
 
 <div align="left">
-<a href="https://github.com/alexbeldam" target="_blank">
-    <img src="https://github.com/rahuldkjain/github-profile-readme-generator/raw/master/src/images/icons/Social/github.svg" width="62" height="50" alt="github logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/alexbeldam" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="62" height="50" alt="linkedin logo"  />
   </a>
