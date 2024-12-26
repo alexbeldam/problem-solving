@@ -26,11 +26,13 @@
 
 ###
 
-<img width="50" height="50" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd logo">
-<img width="12" />
-<img width="50" height="50" src="icons/runcodes.png" alt="run.codes Logo">
-<img width="12" />
-<img width="50" height="50" src="icons/leetcode.png" alt="Leetcode logo">
+<div align="left">
+    <img width="50" height="50" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" alt="Beecrowd logo">
+    <img width="12" />
+    <img width="50" height="50" src="icons/runcodes.png" alt="run.codes Logo">
+    <img width="12" />
+    <img width="50" height="50" src="icons/leetcode.png" alt="Leetcode logo">
+</div>
 
 ###
 
