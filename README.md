@@ -48,17 +48,17 @@
   <tr>
     <td align="center">
       <a href="https://github.com/alexbeldam">
-        <img src="icons/alex.jpg" width="100px;" alt="Alex Souza"/><br>
+        <img src="https://avatars.githubusercontent.com/u/106851123?v=4" width="100px;" alt="Alex Souza"/><br>
         <sub>
           <b>Alex Souza</b>
         </sub>
       </a>
     </td>
     <td align="center">
-      <a href="#">
-        <img src="https://media.licdn.com/dms/image/v2/D5603AQHv6LsdiUg1kw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1695167344576?e=2147483647&v=beta&t=vB03Mumg9vqYiwMCmT3pwjcWyTO5TZugDqammxCtbyY" width="100px;" alt="Bill Gates"/><br>
+      <a href="https://pt.wikipedia.org/wiki/Alan_Turing">
+        <img src="icons/alan.jpg" width="100px;" alt="Alan Turing"/><br>
         <sub>
-          <b>Bill Gates</b>
+          <b>Alan Turing</b>
         </sub>
       </a>
     </td>
