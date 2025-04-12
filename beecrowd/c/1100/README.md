@@ -1,0 +1,102 @@
+# Problemas 1100 (50%)
+
+- [ ]  [1100](https://www.beecrowd.com.br/repository/UOJ_1100.html) - Movimentos do Cavalo *Grafos*
+- [x]  [1101](https://www.beecrowd.com.br/repository/UOJ_1101.html) - [Sequência de Números e Soma](1101.c) *Iniciante*
+- [ ]  [1102](https://www.beecrowd.com.br/repository/UOJ_1102.html) - Ataque Fulminante *Geometria Computacional*
+- [ ]  [1103](https://www.beecrowd.com.br/repository/UOJ_1103.html) - Alarme Despertador *Ad-Hoc*
+- [ ]  [1104](https://www.beecrowd.com.br/repository/UOJ_1104.html) - Troca de Cartas *Ad-Hoc*
+- [x]  [1105](https://www.beecrowd.com.br/repository/UOJ_1105.html) - [Sub-prime](1105.c) *Ad-Hoc*
+- [ ]  [1106](https://www.beecrowd.com.br/repository/UOJ_1106.html) - Dragster *Paradigmas*
+- [ ]  [1107](https://www.beecrowd.com.br/repository/UOJ_1107.html) - Escultura à Laser *Ad-Hoc*
+- [ ]  [1108](https://www.beecrowd.com.br/repository/UOJ_1108.html) - Torres de Telefonia Celular *Geometria Computacional*
+- [ ]  [1109](https://www.beecrowd.com.br/repository/UOJ_1109.html) - Burlando a Maratona *Ad-Hoc*
+- [ ]  [1110](https://www.beecrowd.com.br/repository/UOJ_1110.html) - Jogando Cartas Fora *Estruturas e Bibliotecas*
+- [ ]  [1111](https://www.beecrowd.com.br/repository/UOJ_1111.html) - Desrugenstein *Grafos*
+- [ ]  [1112](https://www.beecrowd.com.br/repository/UOJ_1112.html) - Schweisen *Estruturas e Bibliotecas*
+- [x]  [1113](https://www.beecrowd.com.br/repository/UOJ_1113.html) - [Crescente e Decrescente](1113.c) *Iniciante*
+- [x]  [1114](https://www.beecrowd.com.br/repository/UOJ_1114.html) - [Senha Fixa](1114.c) *Iniciante*
+- [x]  [1115](https://www.beecrowd.com.br/repository/UOJ_1115.html) - [Quadrante](1115.c) *Iniciante*
+- [x]  [1116](https://www.beecrowd.com.br/repository/UOJ_1116.html) - [Dividindo X por Y](1116.c) *Iniciante*
+- [x]  [1117](https://www.beecrowd.com.br/repository/UOJ_1117.html) - [Validação de Nota](1117.c) *Iniciante*
+- [x]  [1118](https://www.beecrowd.com.br/repository/UOJ_1118.html) - [Várias Notas Com Validação](1118.c) *Iniciante*
+- [ ]  [1119](https://www.beecrowd.com.br/repository/UOJ_1119.html) - A Fila de Desempregados *Estruturas e Bibliotecas*
+- [ ]  [1120](https://www.beecrowd.com.br/repository/UOJ_1120.html) - Revisão de Contrato *Strings*
+- [ ]  [1121](https://www.beecrowd.com.br/repository/UOJ_1121.html) - Robô Colecionador *Ad-Hoc*
+- [ ]  [1122](https://www.beecrowd.com.br/repository/UOJ_1122.html) - Livro-Caixa *Ad-Hoc*
+- [ ]  [1123](https://www.beecrowd.com.br/repository/UOJ_1123.html) - Desvio de Rota *Grafos*
+- [ ]  [1124](https://www.beecrowd.com.br/repository/UOJ_1124.html) - Elevador *Geometria Computacional*
+- [ ]  [1125](https://www.beecrowd.com.br/repository/UOJ_1125.html) - Fórmula 1 *Ad-Hoc*
+- [ ]  [1126](https://www.beecrowd.com.br/repository/UOJ_1126.html) - Guerra nas Estrelas *Geometria Computacional*
+- [ ]  [1127](https://www.beecrowd.com.br/repository/UOJ_1127.html) - Plágio Musical *Ad-Hoc*
+- [ ]  [1128](https://www.beecrowd.com.br/repository/UOJ_1128.html) - Ir e Vir *Grafos*
+- [x]  [1129](https://www.beecrowd.com.br/repository/UOJ_1129.html) - [Leitura Ótica](1129.c) *Ad-Hoc*
+- [ ]  [1130](https://www.beecrowd.com.br/repository/UOJ_1130.html) - Jogo da Velha *Ad-Hoc*
+- [x]  [1131](https://www.beecrowd.com.br/repository/UOJ_1131.html) - [Grenais](1131.c) *Iniciante*
+- [x]  [1132](https://www.beecrowd.com.br/repository/UOJ_1132.html) - [Múltiplos de 13](1132.c) *Iniciante*
+- [x]  [1133](https://www.beecrowd.com.br/repository/UOJ_1133.html) - [Resto da Divisão](1133.c) *Iniciante*
+- [x]  [1134](https://www.beecrowd.com.br/repository/UOJ_1134.html) - [Tipo de Combustível](1134.c) *Iniciante*
+- [ ]  [1135](https://www.beecrowd.com.br/repository/UOJ_1135.html) - Colônia de Formigas *Grafos*
+- [ ]  [1136](https://www.beecrowd.com.br/repository/UOJ_1136.html) - Bingo! *Ad-Hoc*
+- [ ]  [1137](https://www.beecrowd.com.br/repository/UOJ_1137.html) - Pontos Cocirculares *Geometria Computacional*
+- [ ]  [1138](https://www.beecrowd.com.br/repository/UOJ_1138.html) - Contagem de Dígitos *Matemática*
+- [ ]  [1139](https://www.beecrowd.com.br/repository/UOJ_1139.html) - Necessidades Elétricas *Ad-Hoc*
+- [ ]  [1140](https://www.beecrowd.com.br/repository/UOJ_1140.html) - Flores Florescem da França *Ad-Hoc*
+- [ ]  [1141](https://www.beecrowd.com.br/repository/UOJ_1141.html) - Cultivando Strings *Strings*
+- [x]  [1142](https://www.beecrowd.com.br/repository/UOJ_1142.html) - [PUM](1142.c) *Iniciante*
+- [x]  [1143](https://www.beecrowd.com.br/repository/UOJ_1143.html) - [Quadrado e ao Cubo](1143.c) *Iniciante*
+- [x]  [1144](https://www.beecrowd.com.br/repository/UOJ_1144.html) - [Sequência Lógica](1144.c) *Iniciante*
+- [x]  [1145](https://www.beecrowd.com.br/repository/UOJ_1145.html) - [Sequência Lógica 2](1145.c) *Iniciante*
+- [x]  [1146](https://www.beecrowd.com.br/repository/UOJ_1146.html) - [Sequências Crescentes](1146.c) *Iniciante*
+- [ ]  [1147](https://www.beecrowd.com.br/repository/UOJ_1147.html) - Fuga do Cavalo *Ad-Hoc*
+- [ ]  [1148](https://www.beecrowd.com.br/repository/UOJ_1148.html) - Países em Guerra *Grafos*
+- [x]  [1149](https://www.beecrowd.com.br/repository/UOJ_1149.html) - [Somando Inteiros Consecutivos](1149.c) *Iniciante*
+- [x]  [1150](https://www.beecrowd.com.br/repository/UOJ_1150.html) - [Ultrapassando Z](1150.c) *Iniciante*
+- [x]  [1151](https://www.beecrowd.com.br/repository/UOJ_1151.html) - [Fibonacci Fácil](1151.c) *Iniciante*
+- [ ]  [1152](https://www.beecrowd.com.br/repository/UOJ_1152.html) - Estradas Escuras *Grafos*
+- [x]  [1153](https://www.beecrowd.com.br/repository/UOJ_1153.html) - [Fatorial Simples](1153.c) *Iniciante*
+- [x]  [1154](https://www.beecrowd.com.br/repository/UOJ_1154.html) - [Idades](1154.c) *Iniciante*
+- [x]  [1155](https://www.beecrowd.com.br/repository/UOJ_1155.html) - [Sequência S](1155.c) *Iniciante*
+- [x]  [1156](https://www.beecrowd.com.br/repository/UOJ_1156.html) - [Sequência S II](1156.c) *Iniciante*
+- [x]  [1157](https://www.beecrowd.com.br/repository/UOJ_1157.html) - [Divisores I](1157.c) *Iniciante*
+- [x]  [1158](https://www.beecrowd.com.br/repository/UOJ_1158.html) - [Soma de Ímpares Consecutivos III](1158.c) *Iniciante*
+- [x]  [1159](https://www.beecrowd.com.br/repository/UOJ_1159.html) - [Soma de Pares Consecutivos](1159.c) *Iniciante*
+- [x]  [1160](https://www.beecrowd.com.br/repository/UOJ_1160.html) - [Crescimento Populacional](1160.c) *Iniciante*
+- [ ]  [1161](https://www.beecrowd.com.br/repository/UOJ_1161.html) - Soma de Fatoriais *Matemática*
+- [ ]  [1162](https://www.beecrowd.com.br/repository/UOJ_1162.html) - Organizador de Vagões *Estruturas e Bibliotecas*
+- [ ]  [1163](https://www.beecrowd.com.br/repository/UOJ_1163.html) - Angry Ducks *Matemática*
+- [x]  [1164](https://www.beecrowd.com.br/repository/UOJ_1164.html) - [Número Perfeito](1164.c) *Iniciante*
+- [x]  [1165](https://www.beecrowd.com.br/repository/UOJ_1165.html) - [Número Primo](1165.c) *Iniciante*
+- [ ]  [1166](https://www.beecrowd.com.br/repository/UOJ_1166.html) - Torre de Hanoi, Novamente! *Paradigmas*
+- [ ]  [1167](https://www.beecrowd.com.br/repository/UOJ_1167.html) - Acampamento de Férias *Estruturas e Bibliotecas*
+- [ ]  [1168](https://www.beecrowd.com.br/repository/UOJ_1168.html) - LED *Strings*
+- [ ]  [1169](https://www.beecrowd.com.br/repository/UOJ_1169.html) - Trigo no Tabuleiro *Matemática*
+- [ ]  [1170](https://www.beecrowd.com.br/repository/UOJ_1170.html) - Blobs *Matemática*
+- [ ]  [1171](https://www.beecrowd.com.br/repository/UOJ_1171.html) - Frequência de Números *Ad-Hoc*
+- [x]  [1172](https://www.beecrowd.com.br/repository/UOJ_1172.html) - [Substituição em Vetor I](1172.c) *Iniciante*
+- [x]  [1173](https://www.beecrowd.com.br/repository/UOJ_1173.html) - [Preenchimento de Vetor I](1173.c) *Iniciante*
+- [x]  [1174](https://www.beecrowd.com.br/repository/UOJ_1174.html) - [Seleçao em Vetor I](1174.c) *Iniciante*
+- [x]  [1175](https://www.beecrowd.com.br/repository/UOJ_1175.html) - [Troca em Vetor I](1175.c) *Iniciante*
+- [x]  [1176](https://www.beecrowd.com.br/repository/UOJ_1176.html) - [Fibonacci em Vetor](1176.c) *Iniciante*
+- [x]  [1177](https://www.beecrowd.com.br/repository/UOJ_1177.html) - [Preenchimento de Vetor II](1177.c) *Iniciante*
+- [x]  [1178](https://www.beecrowd.com.br/repository/UOJ_1178.html) - [Preenchimento de Vetor III](1178.c) *Iniciante*
+- [x]  [1179](https://www.beecrowd.com.br/repository/UOJ_1179.html) - [Preenchimento de Vetor IV](1179.c) *Iniciante*
+- [x]  [1180](https://www.beecrowd.com.br/repository/UOJ_1180.html) - [Menor e Posição](1180.c) *Iniciante*
+- [x]  [1181](https://www.beecrowd.com.br/repository/UOJ_1181.html) - [Linha na Matriz](1181.c) *Iniciante*
+- [x]  [1182](https://www.beecrowd.com.br/repository/UOJ_1182.html) - [Coluna na Matriz](1182.c) *Iniciante*
+- [x]  [1183](https://www.beecrowd.com.br/repository/UOJ_1183.html) - [Acima da Diagonal Principal](1183.c) *Iniciante*
+- [x]  [1184](https://www.beecrowd.com.br/repository/UOJ_1184.html) - [Abaixo da Diagonal Principal](1184.c) *Iniciante*
+- [x]  [1185](https://www.beecrowd.com.br/repository/UOJ_1185.html) - [Acima da Diagonal Secundária](1185.c) *Iniciante*
+- [x]  [1186](https://www.beecrowd.com.br/repository/UOJ_1186.html) - [Abaixo da Diagonal Secundária](1186.c) *Iniciante*
+- [x]  [1187](https://www.beecrowd.com.br/repository/UOJ_1187.html) - [Área Superior](1187.c) *Iniciante*
+- [x]  [1188](https://www.beecrowd.com.br/repository/UOJ_1188.html) - [Área Inferior](1188.c) *Iniciante*
+- [x]  [1189](https://www.beecrowd.com.br/repository/UOJ_1189.html) - [Área Esquerda](1189.c) *Iniciante*
+- [x]  [1190](https://www.beecrowd.com.br/repository/UOJ_1190.html) - [Área Direita](1190.c) *Iniciante*
+- [ ]  [1191](https://www.beecrowd.com.br/repository/UOJ_1191.html) - Recuperação da Árvore *Grafos*
+- [ ]  [1192](https://www.beecrowd.com.br/repository/UOJ_1192.html) - O jogo Matemático de Paula *Ad-Hoc*
+- [ ]  [1193](https://www.beecrowd.com.br/repository/UOJ_1193.html) - Conversão entre Bases *Matemática*
+- [ ]  [1194](https://www.beecrowd.com.br/repository/UOJ_1194.html) - Prefixa, Infixa e Posfixa *Grafos*
+- [ ]  [1195](https://www.beecrowd.com.br/repository/UOJ_1195.html) - Árvore Binária de Busca *Grafos*
+- [ ]  [1196](https://www.beecrowd.com.br/repository/UOJ_1196.html) - WERTYU *Ad-Hoc*
+- [ ]  [1197](https://www.beecrowd.com.br/repository/UOJ_1197.html) - Volta à Faculdade de Física *Matemática*
+- [ ]  [1198](https://www.beecrowd.com.br/repository/UOJ_1198.html) - O Bravo Guerreiro Hashmat *Matemática*
+- [ ]  [1199](https://www.beecrowd.com.br/repository/UOJ_1199.html) - Conversão Simples de Base *Matemática*

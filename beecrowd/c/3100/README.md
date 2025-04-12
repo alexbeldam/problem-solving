@@ -1,0 +1,102 @@
+# Problemas 3100 (1%)
+
+- [ ]  [3100](https://www.beecrowd.com.br/repository/UOJ_3100.html) - Os Dígitos da Sorte *Strings*
+- [ ]  [3101](https://www.beecrowd.com.br/repository/UOJ_3101.html) - Famílias Poligâmicas *Grafos*
+- [ ]  [3102](https://www.beecrowd.com.br/repository/UOJ_3102.html) - Kikoho *Matemática*
+- [ ]  [3103](https://www.beecrowd.com.br/repository/UOJ_3103.html) - Número da Sorte *Strings*
+- [ ]  [3104](https://www.beecrowd.com.br/repository/UOJ_3104.html) - Resto 2.0 *Matemática*
+- [ ]  [3105](https://www.beecrowd.com.br/repository/UOJ_3105.html) - Dobrando Papel *Ad-Hoc*
+- [ ]  [3106](https://www.beecrowd.com.br/repository/UOJ_3106.html) - Competição de Códigos *Ad-Hoc*
+- [ ]  [3107](https://www.beecrowd.com.br/repository/UOJ_3107.html) - Pulo do Sapo *Paradigmas*
+- [ ]  [3108](https://www.beecrowd.com.br/repository/UOJ_3108.html) - Arremesse os BigOs! *Geometria Computacional*
+- [ ]  [3109](https://www.beecrowd.com.br/repository/UOJ_3109.html) - Trocando de Mesa *Ad-Hoc*
+- [ ]  [3110](https://www.beecrowd.com.br/repository/UOJ_3110.html) - Farcos e o Xorshift *Matemática*
+- [ ]  [3111](https://www.beecrowd.com.br/repository/UOJ_3111.html) - A Vitória de Jim *Ad-Hoc*
+- [ ]  [3112](https://www.beecrowd.com.br/repository/UOJ_3112.html) - Decodificação Ambígua *Ad-Hoc*
+- [ ]  [3113](https://www.beecrowd.com.br/repository/UOJ_3113.html) - Cadeado Insano *Ad-Hoc*
+- [ ]  [3114](https://www.beecrowd.com.br/repository/UOJ_3114.html) - Parkour *Paradigmas*
+- [ ]  [3115](https://www.beecrowd.com.br/repository/UOJ_3115.html) - Estradas *Grafos*
+- [ ]  [3116](https://www.beecrowd.com.br/repository/UOJ_3116.html) - Seguidores Impossíveis *Paradigmas*
+- [ ]  [3117](https://www.beecrowd.com.br/repository/UOJ_3117.html) - Atrasadinhos *Ad-Hoc*
+- [ ]  [3118](https://www.beecrowd.com.br/repository/UOJ_3118.html) - Bactérias, Suas Loucas! *Strings*
+- [ ]  [3119](https://www.beecrowd.com.br/repository/UOJ_3119.html) - As Aventuras do Calango Atômico *Grafos*
+- [ ]  [3120](https://www.beecrowd.com.br/repository/UOJ_3120.html) - Jogada de Marketing *Ad-Hoc*
+- [ ]  [3121](https://www.beecrowd.com.br/repository/UOJ_3121.html) - Acionista Por um Dia *Ad-Hoc*
+- [ ]  [3122](https://www.beecrowd.com.br/repository/UOJ_3122.html) - Festa de Final de Ano *Ad-Hoc*
+- [ ]  [3123](https://www.beecrowd.com.br/repository/UOJ_3123.html) - Pedras do Gênesis *Ad-Hoc*
+- [ ]  [3124](https://www.beecrowd.com.br/repository/UOJ_3124.html) - Minha Reforma, Minha Vida *Grafos*
+- [ ]  [3125](https://www.beecrowd.com.br/repository/UOJ_3125.html) - Princesa das Equações *Ad-Hoc*
+- [ ]  [3126](https://www.beecrowd.com.br/repository/UOJ_3126.html) - Lista de Treinamento *Ad-Hoc*
+- [ ]  [3127](https://www.beecrowd.com.br/repository/UOJ_3127.html) - Kampeonato de Feijão *Ad-Hoc*
+- [ ]  [3128](https://www.beecrowd.com.br/repository/UOJ_3128.html) - Regras do Cinema *Ad-Hoc*
+- [ ]  [3129](https://www.beecrowd.com.br/repository/UOJ_3129.html) - Figurinhas Repetidas *Ad-Hoc*
+- [ ]  [3130](https://www.beecrowd.com.br/repository/UOJ_3130.html) - Caixas Por Todo Lado *Ad-Hoc*
+- [ ]  [3131](https://www.beecrowd.com.br/repository/UOJ_3131.html) - Índice de Reputação *Ad-Hoc*
+- [ ]  [3132](https://www.beecrowd.com.br/repository/UOJ_3132.html) - DNA Alienígena *Ad-Hoc*
+- [ ]  [3133](https://www.beecrowd.com.br/repository/UOJ_3133.html) - Fila de Navios *Ad-Hoc*
+- [ ]  [3134](https://www.beecrowd.com.br/repository/UOJ_3134.html) - Balança Equilibrada *Ad-Hoc*
+- [ ]  [3135](https://www.beecrowd.com.br/repository/UOJ_3135.html) - Lista de Nomes *Ad-Hoc*
+- [ ]  [3136](https://www.beecrowd.com.br/repository/UOJ_3136.html) - Arquitetura de Pilha *Ad-Hoc*
+- [ ]  [3137](https://www.beecrowd.com.br/repository/UOJ_3137.html) - Páginas de um Livro *Ad-Hoc*
+- [ ]  [3138](https://www.beecrowd.com.br/repository/UOJ_3138.html) - Aniversário do Tobias *Matemática*
+- [ ]  [3139](https://www.beecrowd.com.br/repository/UOJ_3139.html) - Buscando Novos Seguidores *Estruturas e Bibliotecas*
+- [ ]  [3140](https://www.beecrowd.com.br/repository/UOJ_3140.html) - Copiando e Colando Código *Iniciante*
+- [ ]  [3141](https://www.beecrowd.com.br/repository/UOJ_3141.html) - Dúvida Etária *Strings*
+- [x]  [3142](https://www.beecrowd.com.br/repository/UOJ_3142.html) - [Excel Bugado](3142.c) *Iniciante*
+- [ ]  [3143](https://www.beecrowd.com.br/repository/UOJ_3143.html) - Fugindo do Celular *Strings*
+- [ ]  [3144](https://www.beecrowd.com.br/repository/UOJ_3144.html) - G de Grafo *Grafos*
+- [ ]  [3145](https://www.beecrowd.com.br/repository/UOJ_3145.html) - Uma Jornada Inesperada *Iniciante*
+- [ ]  [3146](https://www.beecrowd.com.br/repository/UOJ_3146.html) - Charadas no Escuro *Iniciante*
+- [ ]  [3147](https://www.beecrowd.com.br/repository/UOJ_3147.html) - A Batalha dos Cinco Exércitos *Iniciante*
+- [ ]  [3148](https://www.beecrowd.com.br/repository/UOJ_3148.html) - O Jardim *Estruturas e Bibliotecas*
+- [ ]  [3149](https://www.beecrowd.com.br/repository/UOJ_3149.html) - A Noiva do Trevo *Estruturas e Bibliotecas*
+- [ ]  [3150](https://www.beecrowd.com.br/repository/UOJ_3150.html) - O Esconderijo do Rambo *Grafos*
+- [ ]  [3151](https://www.beecrowd.com.br/repository/UOJ_3151.html) - O Iogurte Divino *Paradigmas*
+- [ ]  [3152](https://www.beecrowd.com.br/repository/UOJ_3152.html) - Samuel, O Cafeicultor *Geometria Computacional*
+- [ ]  [3153](https://www.beecrowd.com.br/repository/UOJ_3153.html) - Fake News *Paradigmas*
+- [ ]  [3154](https://www.beecrowd.com.br/repository/UOJ_3154.html) - A Grande Festa *Matemática*
+- [ ]  [3155](https://www.beecrowd.com.br/repository/UOJ_3155.html) - Sócrates e suas Perguntas *Estruturas e Bibliotecas*
+- [ ]  [3156](https://www.beecrowd.com.br/repository/UOJ_3156.html) - Xadrez Galático *Geometria Computacional*
+- [ ]  [3157](https://www.beecrowd.com.br/repository/UOJ_3157.html) - Viva a Ciência! *Iniciante*
+- [ ]  [3158](https://www.beecrowd.com.br/repository/UOJ_3158.html) - O Bom Presidente *Grafos*
+- [ ]  [3159](https://www.beecrowd.com.br/repository/UOJ_3159.html) - Tijolão *Strings*
+- [ ]  [3160](https://www.beecrowd.com.br/repository/UOJ_3160.html) - Amigos *Estruturas e Bibliotecas*
+- [ ]  [3161](https://www.beecrowd.com.br/repository/UOJ_3161.html) - As Frutas Esquecidas *Iniciante*
+- [ ]  [3162](https://www.beecrowd.com.br/repository/UOJ_3162.html) - Comunicação Espacial *Iniciante*
+- [ ]  [3163](https://www.beecrowd.com.br/repository/UOJ_3163.html) - Controlador de Vôo *Estruturas e Bibliotecas*
+- [ ]  [3164](https://www.beecrowd.com.br/repository/UOJ_3164.html) - Fiscalizando Empresa *Iniciante*
+- [ ]  [3165](https://www.beecrowd.com.br/repository/UOJ_3165.html) - Primos Gêmeos *Matemática*
+- [ ]  [3166](https://www.beecrowd.com.br/repository/UOJ_3166.html) - Procurando Palavras na Diagonal Principal *Iniciante*
+- [ ]  [3167](https://www.beecrowd.com.br/repository/UOJ_3167.html) - Procurando Palavras na Diagonal Secundária *Iniciante*
+- [ ]  [3168](https://www.beecrowd.com.br/repository/UOJ_3168.html) - Aposta dos Gnomos *Ad-Hoc*
+- [ ]  [3169](https://www.beecrowd.com.br/repository/UOJ_3169.html) - Batendo em Retirada *Grafos*
+- [ ]  [3170](https://www.beecrowd.com.br/repository/UOJ_3170.html) - Bolinhas de Natal *Iniciante*
+- [ ]  [3171](https://www.beecrowd.com.br/repository/UOJ_3171.html) - Cordão de Led *Estruturas e Bibliotecas*
+- [ ]  [3172](https://www.beecrowd.com.br/repository/UOJ_3172.html) - Dali e Dila *Ad-Hoc*
+- [ ]  [3173](https://www.beecrowd.com.br/repository/UOJ_3173.html) - Estrela de Natal *Iniciante*
+- [ ]  [3174](https://www.beecrowd.com.br/repository/UOJ_3174.html) - Grupo de Trabalho do Noel *Iniciante*
+- [ ]  [3175](https://www.beecrowd.com.br/repository/UOJ_3175.html) - Os Presentes Do Noel *Ad-Hoc*
+- [ ]  [3176](https://www.beecrowd.com.br/repository/UOJ_3176.html) - Time de Duendes *Estruturas e Bibliotecas*
+- [ ]  [3177](https://www.beecrowd.com.br/repository/UOJ_3177.html) - Fábrica de Brinquedos do Papai Noel *Ad-Hoc*
+- [ ]  [3178](https://www.beecrowd.com.br/repository/UOJ_3178.html) - Avenida de Álamos *Paradigmas*
+- [ ]  [3179](https://www.beecrowd.com.br/repository/UOJ_3179.html) - Melhor Compressão de Todas *Matemática*
+- [ ]  [3180](https://www.beecrowd.com.br/repository/UOJ_3180.html) - Roubo de Código *Strings*
+- [ ]  [3181](https://www.beecrowd.com.br/repository/UOJ_3181.html) - Jantar *Iniciante*
+- [ ]  [3182](https://www.beecrowd.com.br/repository/UOJ_3182.html) - Planejamento de Evento *Matemática*
+- [ ]  [3183](https://www.beecrowd.com.br/repository/UOJ_3183.html) - Corrigindo os Bugs *Matemática*
+- [ ]  [3184](https://www.beecrowd.com.br/repository/UOJ_3184.html) - Obtendo Ouro *Geometria Computacional*
+- [ ]  [3185](https://www.beecrowd.com.br/repository/UOJ_3185.html) - Evidência Difícil *Matemática*
+- [ ]  [3186](https://www.beecrowd.com.br/repository/UOJ_3186.html) - Cache Introspectivo *Estruturas e Bibliotecas*
+- [ ]  [3187](https://www.beecrowd.com.br/repository/UOJ_3187.html) - Apenas Mais Alguns Triângulos! *Matemática*
+- [ ]  [3188](https://www.beecrowd.com.br/repository/UOJ_3188.html) - Phone List *Ad-Hoc*
+- [ ]  [3189](https://www.beecrowd.com.br/repository/UOJ_3189.html) - Cuckoo Hashing *Ad-Hoc*
+- [ ]  [3190](https://www.beecrowd.com.br/repository/UOJ_3190.html) - Optimal Parking *Estruturas e Bibliotecas*
+- [ ]  [3191](https://www.beecrowd.com.br/repository/UOJ_3191.html) - Copying DNA *Paradigmas*
+- [ ]  [3192](https://www.beecrowd.com.br/repository/UOJ_3192.html) - Circle of Debt *Paradigmas*
+- [ ]  [3193](https://www.beecrowd.com.br/repository/UOJ_3193.html) - Full Tank? *Grafos*
+- [ ]  [3194](https://www.beecrowd.com.br/repository/UOJ_3194.html) - Nested Dolls *Grafos*
+- [ ]  [3195](https://www.beecrowd.com.br/repository/UOJ_3195.html) - Shopaholic *Paradigmas*
+- [ ]  [3196](https://www.beecrowd.com.br/repository/UOJ_3196.html) - Moogle *Paradigmas*
+- [ ]  [3197](https://www.beecrowd.com.br/repository/UOJ_3197.html) - Shoot-out *Paradigmas*
+- [ ]  [3198](https://www.beecrowd.com.br/repository/UOJ_3198.html) - Tour Guide *Ad-Hoc*
+- [ ]  [3199](https://www.beecrowd.com.br/repository/UOJ_3199.html) - Jezzball *Ad-Hoc*

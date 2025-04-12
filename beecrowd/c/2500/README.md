@@ -1,0 +1,102 @@
+# Problemas 2500 (1%)
+
+- [ ]  [2500](https://www.beecrowd.com.br/repository/UOJ_2500.html) - William Xorando *Matemática*
+- [ ]  [2501](https://www.beecrowd.com.br/repository/UOJ_2501.html) - Fatores Permitidos *Paradigmas*
+- [ ]  [2502](https://www.beecrowd.com.br/repository/UOJ_2502.html) - Decifrando a Carta Criptografada *Iniciante*
+- [ ]  [2503](https://www.beecrowd.com.br/repository/UOJ_2503.html) - Corrida de Regularidade *Estruturas e Bibliotecas*
+- [ ]  [2504](https://www.beecrowd.com.br/repository/UOJ_2504.html) - Biorritmo *Ad-Hoc*
+- [ ]  [2505](https://www.beecrowd.com.br/repository/UOJ_2505.html) - Autopotencial *Matemática*
+- [ ]  [2506](https://www.beecrowd.com.br/repository/UOJ_2506.html) - Fila do SUS *Estruturas e Bibliotecas*
+- [ ]  [2507](https://www.beecrowd.com.br/repository/UOJ_2507.html) - Código de Hamming *Ad-Hoc*
+- [ ]  [2508](https://www.beecrowd.com.br/repository/UOJ_2508.html) - Guru da Sorte *Ad-Hoc*
+- [ ]  [2509](https://www.beecrowd.com.br/repository/UOJ_2509.html) - Editor Latex *Strings*
+- [ ]  [2510](https://www.beecrowd.com.br/repository/UOJ_2510.html) - Batmain *Iniciante*
+- [ ]  [2511](https://www.beecrowd.com.br/repository/UOJ_2511.html) - WWW *Ad-Hoc*
+- [ ]  [2512](https://www.beecrowd.com.br/repository/UOJ_2512.html) - O Jogo Reverse *Ad-Hoc*
+- [ ]  [2513](https://www.beecrowd.com.br/repository/UOJ_2513.html) - Xoringan *Ad-Hoc*
+- [ ]  [2514](https://www.beecrowd.com.br/repository/UOJ_2514.html) - Alinhamento Lunar *Matemática*
+- [ ]  [2515](https://www.beecrowd.com.br/repository/UOJ_2515.html) - Bolacha *Ad-Hoc*
+- [ ]  [2516](https://www.beecrowd.com.br/repository/UOJ_2516.html) - Corrida *Matemática*
+- [ ]  [2517](https://www.beecrowd.com.br/repository/UOJ_2517.html) - Desafio PoGro *Geometria Computacional*
+- [ ]  [2518](https://www.beecrowd.com.br/repository/UOJ_2518.html) - Escada do DINF *Geometria Computacional*
+- [ ]  [2519](https://www.beecrowd.com.br/repository/UOJ_2519.html) - Estratégia Campeã *Estruturas e Bibliotecas*
+- [ ]  [2520](https://www.beecrowd.com.br/repository/UOJ_2520.html) - O Último Analógimôn *Iniciante*
+- [ ]  [2521](https://www.beecrowd.com.br/repository/UOJ_2521.html) - Pergunte à Geógrafa *Geometria Computacional*
+- [ ]  [2522](https://www.beecrowd.com.br/repository/UOJ_2522.html) - Rede do DINF *Grafos*
+- [ ]  [2523](https://www.beecrowd.com.br/repository/UOJ_2523.html) - A Mensagem de Will *Iniciante*
+- [ ]  [2524](https://www.beecrowd.com.br/repository/UOJ_2524.html) - Balas de Morango *Paradigmas*
+- [ ]  [2525](https://www.beecrowd.com.br/repository/UOJ_2525.html) - Cacheiro Viajante *Geometria Computacional*
+- [ ]  [2526](https://www.beecrowd.com.br/repository/UOJ_2526.html) - Cardápio *Estruturas e Bibliotecas*
+- [ ]  [2527](https://www.beecrowd.com.br/repository/UOJ_2527.html) - Cheddar *Paradigmas*
+- [ ]  [2528](https://www.beecrowd.com.br/repository/UOJ_2528.html) - Cidade Proibida *Grafos*
+- [ ]  [2529](https://www.beecrowd.com.br/repository/UOJ_2529.html) - Circo das Pulgas *Grafos*
+- [ ]  [2530](https://www.beecrowd.com.br/repository/UOJ_2530.html) - Cola *Ad-Hoc*
+- [ ]  [2531](https://www.beecrowd.com.br/repository/UOJ_2531.html) - Compras em FdI *Estruturas e Bibliotecas*
+- [ ]  [2532](https://www.beecrowd.com.br/repository/UOJ_2532.html) - Demogorgon *Paradigmas*
+- [ ]  [2533](https://www.beecrowd.com.br/repository/UOJ_2533.html) - Estágio *Iniciante*
+- [ ]  [2534](https://www.beecrowd.com.br/repository/UOJ_2534.html) - Exame Geral *Iniciante*
+- [ ]  [2535](https://www.beecrowd.com.br/repository/UOJ_2535.html) - Feira de Adoção *Strings*
+- [ ]  [2536](https://www.beecrowd.com.br/repository/UOJ_2536.html) - FHBZMIPS *Ad-Hoc*
+- [ ]  [2537](https://www.beecrowd.com.br/repository/UOJ_2537.html) - GigaDrive *Estruturas e Bibliotecas*
+- [ ]  [2538](https://www.beecrowd.com.br/repository/UOJ_2538.html) - Ginásio *Estruturas e Bibliotecas*
+- [ ]  [2539](https://www.beecrowd.com.br/repository/UOJ_2539.html) - High Five *Estruturas e Bibliotecas*
+- [ ]  [2540](https://www.beecrowd.com.br/repository/UOJ_2540.html) - Impeachment do Líder *Iniciante*
+- [ ]  [2541](https://www.beecrowd.com.br/repository/UOJ_2541.html) - Ingrest *Geometria Computacional*
+- [x]  [2542](https://www.beecrowd.com.br/repository/UOJ_2542.html) - [Iu-Di-Oh!](2542.c) *Iniciante*
+- [ ]  [2543](https://www.beecrowd.com.br/repository/UOJ_2543.html) - Jogatina UFPR *Iniciante*
+- [ ]  [2544](https://www.beecrowd.com.br/repository/UOJ_2544.html) - Kage Bunshin no Jutsu *Iniciante*
+- [ ]  [2545](https://www.beecrowd.com.br/repository/UOJ_2545.html) - Manyfile *Grafos*
+- [ ]  [2546](https://www.beecrowd.com.br/repository/UOJ_2546.html) - Mesada *Estruturas e Bibliotecas*
+- [ ]  [2547](https://www.beecrowd.com.br/repository/UOJ_2547.html) - Montanha-Russa *Iniciante*
+- [ ]  [2548](https://www.beecrowd.com.br/repository/UOJ_2548.html) - Museu Virtual 3D *Ad-Hoc*
+- [ ]  [2549](https://www.beecrowd.com.br/repository/UOJ_2549.html) - Nomes de Usuários *Strings*
+- [ ]  [2550](https://www.beecrowd.com.br/repository/UOJ_2550.html) - Novo Campus *Grafos*
+- [ ]  [2551](https://www.beecrowd.com.br/repository/UOJ_2551.html) - Novo Recorde *Iniciante*
+- [ ]  [2552](https://www.beecrowd.com.br/repository/UOJ_2552.html) - PãodeQuejoSweeper *Iniciante*
+- [ ]  [2553](https://www.beecrowd.com.br/repository/UOJ_2553.html) - Passeio em FdI *Paradigmas*
+- [ ]  [2554](https://www.beecrowd.com.br/repository/UOJ_2554.html) - Pizza Antes de BH *Iniciante*
+- [ ]  [2555](https://www.beecrowd.com.br/repository/UOJ_2555.html) - Quiz Universitário *Paradigmas*
+- [ ]  [2556](https://www.beecrowd.com.br/repository/UOJ_2556.html) - Reinauguração do CEI *Ad-Hoc*
+- [ ]  [2557](https://www.beecrowd.com.br/repository/UOJ_2557.html) - R+L=J *Strings*
+- [ ]  [2558](https://www.beecrowd.com.br/repository/UOJ_2558.html) - Robô Aspirador *Grafos*
+- [ ]  [2559](https://www.beecrowd.com.br/repository/UOJ_2559.html) - Sexta-Feira 13 *Estruturas e Bibliotecas*
+- [ ]  [2560](https://www.beecrowd.com.br/repository/UOJ_2560.html) - Surf Aquático *Estruturas e Bibliotecas*
+- [ ]  [2561](https://www.beecrowd.com.br/repository/UOJ_2561.html) - Tesouro *Geometria Computacional*
+- [ ]  [2562](https://www.beecrowd.com.br/repository/UOJ_2562.html) - Tipos Analógimôn *Grafos*
+- [ ]  [2563](https://www.beecrowd.com.br/repository/UOJ_2563.html) - Transfira Para o Professor *Paradigmas*
+- [ ]  [2564](https://www.beecrowd.com.br/repository/UOJ_2564.html) - Troca ou Não Troca *Ad-Hoc*
+- [ ]  [2565](https://www.beecrowd.com.br/repository/UOJ_2565.html) - Tubos de Ensaio *Ad-Hoc*
+- [ ]  [2566](https://www.beecrowd.com.br/repository/UOJ_2566.html) - Viagem Para BH *Grafos*
+- [ ]  [2567](https://www.beecrowd.com.br/repository/UOJ_2567.html) - Virus *Ad-Hoc*
+- [ ]  [2568](https://www.beecrowd.com.br/repository/UOJ_2568.html) - Ações *Ad-Hoc*
+- [ ]  [2569](https://www.beecrowd.com.br/repository/UOJ_2569.html) - A Bruxa do 7 x 1 *Ad-Hoc*
+- [ ]  [2570](https://www.beecrowd.com.br/repository/UOJ_2570.html) - Californication *Ad-Hoc*
+- [ ]  [2571](https://www.beecrowd.com.br/repository/UOJ_2571.html) - Doador *Ad-Hoc*
+- [ ]  [2572](https://www.beecrowd.com.br/repository/UOJ_2572.html) - Escalação *Ad-Hoc*
+- [ ]  [2573](https://www.beecrowd.com.br/repository/UOJ_2573.html) - Caça ao Tesouro *Ad-Hoc*
+- [ ]  [2574](https://www.beecrowd.com.br/repository/UOJ_2574.html) - Lagoa Das Capivaras *Ad-Hoc*
+- [ ]  [2575](https://www.beecrowd.com.br/repository/UOJ_2575.html) - Árvore de Natal *Ad-Hoc*
+- [ ]  [2576](https://www.beecrowd.com.br/repository/UOJ_2576.html) - Invertendo Setas *Ad-Hoc*
+- [ ]  [2577](https://www.beecrowd.com.br/repository/UOJ_2577.html) - Jogo das Caixas *Ad-Hoc*
+- [ ]  [2578](https://www.beecrowd.com.br/repository/UOJ_2578.html) - Ontarama Meraini *Ad-Hoc*
+- [ ]  [2579](https://www.beecrowd.com.br/repository/UOJ_2579.html) - Nagol *Ad-Hoc*
+- [ ]  [2580](https://www.beecrowd.com.br/repository/UOJ_2580.html) - Mestre Pokémon Ho *Ad-Hoc*
+- [ ]  [2581](https://www.beecrowd.com.br/repository/UOJ_2581.html) - I am Toorg! *Iniciante*
+- [ ]  [2582](https://www.beecrowd.com.br/repository/UOJ_2582.html) - System of a Download *Iniciante*
+- [ ]  [2583](https://www.beecrowd.com.br/repository/UOJ_2583.html) - Chirrin Chirrion *Strings*
+- [ ]  [2584](https://www.beecrowd.com.br/repository/UOJ_2584.html) - Pentágono *Matemática*
+- [ ]  [2585](https://www.beecrowd.com.br/repository/UOJ_2585.html) - Dominó Incompleto *Grafos*
+- [ ]  [2586](https://www.beecrowd.com.br/repository/UOJ_2586.html) - Cubonacci *Ad-Hoc*
+- [ ]  [2587](https://www.beecrowd.com.br/repository/UOJ_2587.html) - Jetiqui *Strings*
+- [ ]  [2588](https://www.beecrowd.com.br/repository/UOJ_2588.html) - Jogo dos Palíndromos *Strings*
+- [ ]  [2589](https://www.beecrowd.com.br/repository/UOJ_2589.html) - Maior Distância Entre Primos Consecutivos *Matemática*
+- [ ]  [2590](https://www.beecrowd.com.br/repository/UOJ_2590.html) - Sete *Ad-Hoc*
+- [ ]  [2591](https://www.beecrowd.com.br/repository/UOJ_2591.html) - HameKameKa *Strings*
+- [ ]  [2592](https://www.beecrowd.com.br/repository/UOJ_2592.html) - VaiNaSort *Ad-Hoc*
+- [ ]  [2593](https://www.beecrowd.com.br/repository/UOJ_2593.html) - Eachianos I *Estruturas e Bibliotecas*
+- [ ]  [2594](https://www.beecrowd.com.br/repository/UOJ_2594.html) - Eachianos II *Estruturas e Bibliotecas*
+- [ ]  [2595](https://www.beecrowd.com.br/repository/UOJ_2595.html) - Cash Roial *Ad-Hoc*
+- [ ]  [2596](https://www.beecrowd.com.br/repository/UOJ_2596.html) - Xenlonguinho *Matemática*
+- [ ]  [2597](https://www.beecrowd.com.br/repository/UOJ_2597.html) - Xenlongão *Matemática*
+- [ ]  [2598](https://www.beecrowd.com.br/repository/UOJ_2598.html) - Colocando Radares *Matemática*
+- [ ]  [2599](https://www.beecrowd.com.br/repository/UOJ_2599.html) - Contando Radares *Paradigmas*

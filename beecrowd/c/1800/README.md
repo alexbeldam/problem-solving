@@ -1,0 +1,102 @@
+# Problemas 1800 (9%)
+
+- [ ]  [1800](https://www.beecrowd.com.br/repository/UOJ_1800.html) - Onde Estão Minhas Chaves *Ad-Hoc*
+- [ ]  [1801](https://www.beecrowd.com.br/repository/UOJ_1801.html) - Brincando com Números *Matemática*
+- [ ]  [1802](https://www.beecrowd.com.br/repository/UOJ_1802.html) - Catálogo de Livros *Ad-Hoc*
+- [ ]  [1803](https://www.beecrowd.com.br/repository/UOJ_1803.html) - Matring *Strings*
+- [ ]  [1804](https://www.beecrowd.com.br/repository/UOJ_1804.html) - Precisa-se de Matemáticos em Marte *Estruturas e Bibliotecas*
+- [ ]  [1805](https://www.beecrowd.com.br/repository/UOJ_1805.html) - Soma Natural *Matemática*
+- [ ]  [1806](https://www.beecrowd.com.br/repository/UOJ_1806.html) - Agente 004 *Grafos*
+- [ ]  [1807](https://www.beecrowd.com.br/repository/UOJ_1807.html) - Triângulo Trinomial, a Vingança *Matemática*
+- [ ]  [1808](https://www.beecrowd.com.br/repository/UOJ_1808.html) - O Retorno do Rei *Ad-Hoc*
+- [ ]  [1809](https://www.beecrowd.com.br/repository/UOJ_1809.html) - Agentes Secretos *Ad-Hoc*
+- [ ]  [1810](https://www.beecrowd.com.br/repository/UOJ_1810.html) - Beverly Hills, Century City *Paradigmas*
+- [ ]  [1811](https://www.beecrowd.com.br/repository/UOJ_1811.html) - O Óscar Vai Para... *Ad-Hoc*
+- [ ]  [1812](https://www.beecrowd.com.br/repository/UOJ_1812.html) - Um Cluster Para Evitar Enchentes *Matemática*
+- [ ]  [1813](https://www.beecrowd.com.br/repository/UOJ_1813.html) - Anacrônico? *Grafos*
+- [ ]  [1814](https://www.beecrowd.com.br/repository/UOJ_1814.html) - DNA Storage? *Ad-Hoc*
+- [ ]  [1815](https://www.beecrowd.com.br/repository/UOJ_1815.html) - Drunk People? *Matemática*
+- [ ]  [1816](https://www.beecrowd.com.br/repository/UOJ_1816.html) - Vikings em Praga? *Ad-Hoc*
+- [ ]  [1817](https://www.beecrowd.com.br/repository/UOJ_1817.html) - Arqueólogos de Tsing Ling *Ad-Hoc*
+- [ ]  [1818](https://www.beecrowd.com.br/repository/UOJ_1818.html) - Centro de Convenções *Geometria Computacional*
+- [ ]  [1819](https://www.beecrowd.com.br/repository/UOJ_1819.html) - Estimando a Produção *Matemática*
+- [ ]  [1820](https://www.beecrowd.com.br/repository/UOJ_1820.html) - Grupos da Universidade de Sing Pil *Ad-Hoc*
+- [ ]  [1821](https://www.beecrowd.com.br/repository/UOJ_1821.html) - Miai Chinês *Grafos*
+- [ ]  [1822](https://www.beecrowd.com.br/repository/UOJ_1822.html) - Obras da China *Paradigmas*
+- [ ]  [1823](https://www.beecrowd.com.br/repository/UOJ_1823.html) - O Penúltimo Imperador *Grafos*
+- [ ]  [1824](https://www.beecrowd.com.br/repository/UOJ_1824.html) - Sapos de Tsé-Tsé *Ad-Hoc*
+- [ ]  [1825](https://www.beecrowd.com.br/repository/UOJ_1825.html) - Formigando *Geometria Computacional*
+- [ ]  [1826](https://www.beecrowd.com.br/repository/UOJ_1826.html) - A Linguagem é Infinita? *Grafos*
+- [x]  [1827](https://www.beecrowd.com.br/repository/UOJ_1827.html) - [Matriz Quadrada IV](1827.c) *Iniciante*
+- [x]  [1828](https://www.beecrowd.com.br/repository/UOJ_1828.html) - [Bazinga!](1828.c) *Iniciante*
+- [ ]  [1829](https://www.beecrowd.com.br/repository/UOJ_1829.html) - Jogo do Maior Número *Matemática*
+- [ ]  [1830](https://www.beecrowd.com.br/repository/UOJ_1830.html) - Caixas de Bombons *Matemática*
+- [ ]  [1831](https://www.beecrowd.com.br/repository/UOJ_1831.html) - Dia Difícil de Trabalho *Matemática*
+- [ ]  [1832](https://www.beecrowd.com.br/repository/UOJ_1832.html) - EBCDIC *Ad-Hoc*
+- [ ]  [1833](https://www.beecrowd.com.br/repository/UOJ_1833.html) - Decoração Natalina *Paradigmas*
+- [ ]  [1834](https://www.beecrowd.com.br/repository/UOJ_1834.html) - Vogons! *Geometria Computacional*
+- [ ]  [1835](https://www.beecrowd.com.br/repository/UOJ_1835.html) - Promessa de Campanha *Grafos*
+- [ ]  [1836](https://www.beecrowd.com.br/repository/UOJ_1836.html) - Pokémon! *Ad-Hoc*
+- [x]  [1837](https://www.beecrowd.com.br/repository/UOJ_1837.html) - [Prefácio](1837.c) *Iniciante*
+- [ ]  [1838](https://www.beecrowd.com.br/repository/UOJ_1838.html) - A Pedra Filosofal *Paradigmas*
+- [ ]  [1839](https://www.beecrowd.com.br/repository/UOJ_1839.html) - A Câmara Secreta *Matemática*
+- [ ]  [1840](https://www.beecrowd.com.br/repository/UOJ_1840.html) - O Prisioneiro de Azkaban *Ad-Hoc*
+- [ ]  [1841](https://www.beecrowd.com.br/repository/UOJ_1841.html) - O Cálice de Fogo *Matemática*
+- [ ]  [1842](https://www.beecrowd.com.br/repository/UOJ_1842.html) - A Ordem da Fênix *Strings*
+- [ ]  [1843](https://www.beecrowd.com.br/repository/UOJ_1843.html) - O Enigma do Príncipe *Paradigmas*
+- [ ]  [1844](https://www.beecrowd.com.br/repository/UOJ_1844.html) - As Relíquias da Morte *Geometria Computacional*
+- [ ]  [1845](https://www.beecrowd.com.br/repository/UOJ_1845.html) - Efílogo *Ad-Hoc*
+- [ ]  [1846](https://www.beecrowd.com.br/repository/UOJ_1846.html) - Numero Para Nome *Strings*
+- [x]  [1847](https://www.beecrowd.com.br/repository/UOJ_1847.html) - [Bem-vindos e Bem-vindas ao Inverno!](1847.c) *Iniciante*
+- [x]  [1848](https://www.beecrowd.com.br/repository/UOJ_1848.html) - [Corvo Contador](1848.c) *Iniciante*
+- [ ]  [1849](https://www.beecrowd.com.br/repository/UOJ_1849.html) - Dracarys! *Ad-Hoc*
+- [ ]  [1850](https://www.beecrowd.com.br/repository/UOJ_1850.html) - O Labirinto de Ninguém *Grafos*
+- [ ]  [1851](https://www.beecrowd.com.br/repository/UOJ_1851.html) - Como Treinar Seu Dragão *Estruturas e Bibliotecas*
+- [ ]  [1852](https://www.beecrowd.com.br/repository/UOJ_1852.html) - Lobos Stark *Paradigmas*
+- [ ]  [1853](https://www.beecrowd.com.br/repository/UOJ_1853.html) - O Jogo da Confiança de Daenerys *Strings*
+- [ ]  [1854](https://www.beecrowd.com.br/repository/UOJ_1854.html) - Inverno em Winterfell *Estruturas e Bibliotecas*
+- [ ]  [1855](https://www.beecrowd.com.br/repository/UOJ_1855.html) - Mapa do Meistre *Grafos*
+- [ ]  [1856](https://www.beecrowd.com.br/repository/UOJ_1856.html) - A Lista da Morte de Arya *Estruturas e Bibliotecas*
+- [ ]  [1857](https://www.beecrowd.com.br/repository/UOJ_1857.html) - Prelúdio de um Casamento Vermelho *Geometria Computacional*
+- [x]  [1858](https://www.beecrowd.com.br/repository/UOJ_1858.html) - [A Resposta de Theon](1858.c) *Iniciante*
+- [ ]  [1859](https://www.beecrowd.com.br/repository/UOJ_1859.html) - Arqueologia Congelante *Strings*
+- [ ]  [1860](https://www.beecrowd.com.br/repository/UOJ_1860.html) - A Caminhada da Vergonha de Cersei *Paradigmas*
+- [ ]  [1861](https://www.beecrowd.com.br/repository/UOJ_1861.html) - O Hall dos Assassinos *Estruturas e Bibliotecas*
+- [ ]  [1862](https://www.beecrowd.com.br/repository/UOJ_1862.html) - Casas de Westeros *Grafos*
+- [ ]  [1863](https://www.beecrowd.com.br/repository/UOJ_1863.html) - O Contra-ataque de Ramsay *Estruturas e Bibliotecas*
+- [x]  [1864](https://www.beecrowd.com.br/repository/UOJ_1864.html) - [Nossos Dias Nunca Voltarão](1864.c) *Iniciante*
+- [x]  [1865](https://www.beecrowd.com.br/repository/UOJ_1865.html) - [Mjölnir](1865.c) *Iniciante*
+- [x]  [1866](https://www.beecrowd.com.br/repository/UOJ_1866.html) - [Conta](1866.c) *Iniciante*
+- [ ]  [1867](https://www.beecrowd.com.br/repository/UOJ_1867.html) - Maior Número de Um Algarismo *Ad-Hoc*
+- [ ]  [1868](https://www.beecrowd.com.br/repository/UOJ_1868.html) - Espiral Quadrada *Strings*
+- [ ]  [1869](https://www.beecrowd.com.br/repository/UOJ_1869.html) - Base 32 *Matemática*
+- [ ]  [1870](https://www.beecrowd.com.br/repository/UOJ_1870.html) - Ventiladores e Balões *Ad-Hoc*
+- [ ]  [1871](https://www.beecrowd.com.br/repository/UOJ_1871.html) - Zero vale Zero *Strings*
+- [ ]  [1872](https://www.beecrowd.com.br/repository/UOJ_1872.html) - Palíndromo Real *Matemática*
+- [ ]  [1873](https://www.beecrowd.com.br/repository/UOJ_1873.html) - Pedra-papel-tesoura-lagarto-Spock *Strings*
+- [ ]  [1874](https://www.beecrowd.com.br/repository/UOJ_1874.html) - Empurrando Blocos *Estruturas e Bibliotecas*
+- [ ]  [1875](https://www.beecrowd.com.br/repository/UOJ_1875.html) - Tribol *Geometria Computacional*
+- [ ]  [1876](https://www.beecrowd.com.br/repository/UOJ_1876.html) - Rabiola *Ad-Hoc*
+- [ ]  [1877](https://www.beecrowd.com.br/repository/UOJ_1877.html) - O Castelo de Neve de Sansa *Ad-Hoc*
+- [ ]  [1878](https://www.beecrowd.com.br/repository/UOJ_1878.html) - Torneios em Sequência *Paradigmas*
+- [ ]  [1879](https://www.beecrowd.com.br/repository/UOJ_1879.html) - Bridge *Ad-Hoc*
+- [ ]  [1880](https://www.beecrowd.com.br/repository/UOJ_1880.html) - Renzo e a Decoração Capicuânica *Ad-Hoc*
+- [ ]  [1881](https://www.beecrowd.com.br/repository/UOJ_1881.html) - Competição de Robótica *Ad-Hoc*
+- [ ]  [1882](https://www.beecrowd.com.br/repository/UOJ_1882.html) - Passeios Aleatórios pela Tailândia *Grafos*
+- [ ]  [1883](https://www.beecrowd.com.br/repository/UOJ_1883.html) - Fuga de Ayutthaya *Grafos*
+- [ ]  [1884](https://www.beecrowd.com.br/repository/UOJ_1884.html) - Lutando Contra os Rajasi *Ad-Hoc*
+- [ ]  [1885](https://www.beecrowd.com.br/repository/UOJ_1885.html) - Loteria Tailandesa *Ad-Hoc*
+- [ ]  [1886](https://www.beecrowd.com.br/repository/UOJ_1886.html) - Resguardando os Templos *Ad-Hoc*
+- [ ]  [1887](https://www.beecrowd.com.br/repository/UOJ_1887.html) - As Vias Férreas Kunming-Cingapura *Ad-Hoc*
+- [ ]  [1888](https://www.beecrowd.com.br/repository/UOJ_1888.html) - Os chedis de Kamphaeng Phet *Ad-Hoc*
+- [ ]  [1889](https://www.beecrowd.com.br/repository/UOJ_1889.html) - Treinando com as Larvas de Phuket *Ad-Hoc*
+- [ ]  [1890](https://www.beecrowd.com.br/repository/UOJ_1890.html) - Emplacando os Tuk-tuks *Ad-Hoc*
+- [ ]  [1891](https://www.beecrowd.com.br/repository/UOJ_1891.html) - Removendo Moedas no Kem Kradãn *Ad-Hoc*
+- [ ]  [1892](https://www.beecrowd.com.br/repository/UOJ_1892.html) - Calouro Vence Veterano? *Paradigmas*
+- [ ]  [1893](https://www.beecrowd.com.br/repository/UOJ_1893.html) - Fases da Lua *Ad-Hoc*
+- [ ]  [1894](https://www.beecrowd.com.br/repository/UOJ_1894.html) - Filogenia *Grafos*
+- [ ]  [1895](https://www.beecrowd.com.br/repository/UOJ_1895.html) - Jogo do Limite *Ad-Hoc*
+- [ ]  [1896](https://www.beecrowd.com.br/repository/UOJ_1896.html) - É Hora do Duelo! *Ad-Hoc*
+- [ ]  [1897](https://www.beecrowd.com.br/repository/UOJ_1897.html) - Jogo Esperto *Estruturas e Bibliotecas*
+- [ ]  [1898](https://www.beecrowd.com.br/repository/UOJ_1898.html) - Soma de Propina *Strings*
+- [ ]  [1899](https://www.beecrowd.com.br/repository/UOJ_1899.html) - Acerte o Alvo! *Ad-Hoc*

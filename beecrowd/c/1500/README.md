@@ -1,0 +1,102 @@
+# Problemas 1500 (6%)
+
+- [ ]  [1500](https://www.beecrowd.com.br/repository/UOJ_1500.html) - Consultas Horríveis *Estruturas e Bibliotecas*
+- [ ]  [1501](https://www.beecrowd.com.br/repository/UOJ_1501.html) - Quantos Zeros e Quantos Dígitos? *Matemática*
+- [ ]  [1502](https://www.beecrowd.com.br/repository/UOJ_1502.html) - Travessia *Grafos*
+- [ ]  [1503](https://www.beecrowd.com.br/repository/UOJ_1503.html) - Maior Palíndromo Comum Você Deve Encontrar *Strings*
+- [ ]  [1504](https://www.beecrowd.com.br/repository/UOJ_1504.html) - Curo Railroad *Geometria Computacional*
+- [ ]  [1505](https://www.beecrowd.com.br/repository/UOJ_1505.html) - Curo Factories *Matemática*
+- [ ]  [1506](https://www.beecrowd.com.br/repository/UOJ_1506.html) - Rabito e Bones *Grafos*
+- [ ]  [1507](https://www.beecrowd.com.br/repository/UOJ_1507.html) - Subsequências *Estruturas e Bibliotecas*
+- [ ]  [1508](https://www.beecrowd.com.br/repository/UOJ_1508.html) - Raio Laser *Ad-Hoc*
+- [ ]  [1509](https://www.beecrowd.com.br/repository/UOJ_1509.html) - Contando Ambiguidades *Paradigmas*
+- [ ]  [1510](https://www.beecrowd.com.br/repository/UOJ_1510.html) - O Passeio Turístico *Paradigmas*
+- [ ]  [1511](https://www.beecrowd.com.br/repository/UOJ_1511.html) - Tabuleiro GCD *Estruturas e Bibliotecas*
+- [ ]  [1512](https://www.beecrowd.com.br/repository/UOJ_1512.html) - Azulejos *Matemática*
+- [ ]  [1513](https://www.beecrowd.com.br/repository/UOJ_1513.html) - Cavalo *Paradigmas*
+- [ ]  [1514](https://www.beecrowd.com.br/repository/UOJ_1514.html) - Competição *Ad-Hoc*
+- [ ]  [1515](https://www.beecrowd.com.br/repository/UOJ_1515.html) - Hello Galaxy *Ad-Hoc*
+- [ ]  [1516](https://www.beecrowd.com.br/repository/UOJ_1516.html) - Imagem *Strings*
+- [ ]  [1517](https://www.beecrowd.com.br/repository/UOJ_1517.html) - Maçãs *Paradigmas*
+- [ ]  [1518](https://www.beecrowd.com.br/repository/UOJ_1518.html) - Tartarugas *Ad-Hoc*
+- [ ]  [1519](https://www.beecrowd.com.br/repository/UOJ_1519.html) - Abreviações *Strings*
+- [ ]  [1520](https://www.beecrowd.com.br/repository/UOJ_1520.html) - Parafusos e Porcas *Estruturas e Bibliotecas*
+- [ ]  [1521](https://www.beecrowd.com.br/repository/UOJ_1521.html) - O Culpado *Ad-Hoc*
+- [ ]  [1522](https://www.beecrowd.com.br/repository/UOJ_1522.html) - Jogo das Pilhas *Paradigmas*
+- [ ]  [1523](https://www.beecrowd.com.br/repository/UOJ_1523.html) - Estacionamento Linear *Estruturas e Bibliotecas*
+- [ ]  [1524](https://www.beecrowd.com.br/repository/UOJ_1524.html) - Fila do Bandejão *Paradigmas*
+- [ ]  [1525](https://www.beecrowd.com.br/repository/UOJ_1525.html) - Gruntz *Grafos*
+- [ ]  [1526](https://www.beecrowd.com.br/repository/UOJ_1526.html) - Transportando Lanches *Matemática*
+- [ ]  [1527](https://www.beecrowd.com.br/repository/UOJ_1527.html) - Guildas *Estruturas e Bibliotecas*
+- [ ]  [1528](https://www.beecrowd.com.br/repository/UOJ_1528.html) - Cordas Emaranhadas *Ad-Hoc*
+- [ ]  [1529](https://www.beecrowd.com.br/repository/UOJ_1529.html) - Max, o Louco *Grafos*
+- [ ]  [1530](https://www.beecrowd.com.br/repository/UOJ_1530.html) - Quantas Substrings? *Strings*
+- [ ]  [1531](https://www.beecrowd.com.br/repository/UOJ_1531.html) - Fibonacci de Novo! *Matemática*
+- [ ]  [1532](https://www.beecrowd.com.br/repository/UOJ_1532.html) - Arremesso de Bolas *Ad-Hoc*
+- [ ]  [1533](https://www.beecrowd.com.br/repository/UOJ_1533.html) - Detetive Watson *Ad-Hoc*
+- [x]  [1534](https://www.beecrowd.com.br/repository/UOJ_1534.html) - [Matriz 123](1534.c) *Iniciante*
+- [ ]  [1535](https://www.beecrowd.com.br/repository/UOJ_1535.html) - Números Casal-Solteirão-Solteirona *Estruturas e Bibliotecas*
+- [ ]  [1536](https://www.beecrowd.com.br/repository/UOJ_1536.html) - Libertadores *Ad-Hoc*
+- [ ]  [1537](https://www.beecrowd.com.br/repository/UOJ_1537.html) - Fila do Banco *Matemática*
+- [ ]  [1538](https://www.beecrowd.com.br/repository/UOJ_1538.html) - Sequência Alienígena *Estruturas e Bibliotecas*
+- [ ]  [1539](https://www.beecrowd.com.br/repository/UOJ_1539.html) - Empresa de Telecom *Grafos*
+- [ ]  [1540](https://www.beecrowd.com.br/repository/UOJ_1540.html) - Planejando a Energia *Ad-Hoc*
+- [x]  [1541](https://www.beecrowd.com.br/repository/UOJ_1541.html) - [Construindo Casas](1541.c) *Iniciante*
+- [ ]  [1542](https://www.beecrowd.com.br/repository/UOJ_1542.html) - Lendo Livros *Ad-Hoc*
+- [ ]  [1543](https://www.beecrowd.com.br/repository/UOJ_1543.html) - Quadro Premiado *Paradigmas*
+- [ ]  [1544](https://www.beecrowd.com.br/repository/UOJ_1544.html) - O Último Dígito Não-Zero *Matemática*
+- [ ]  [1545](https://www.beecrowd.com.br/repository/UOJ_1545.html) - Cartões II *Paradigmas*
+- [ ]  [1546](https://www.beecrowd.com.br/repository/UOJ_1546.html) - Feedback *Ad-Hoc*
+- [ ]  [1547](https://www.beecrowd.com.br/repository/UOJ_1547.html) - Adivinha *Ad-Hoc*
+- [ ]  [1548](https://www.beecrowd.com.br/repository/UOJ_1548.html) - Fila do Recreio *Estruturas e Bibliotecas*
+- [ ]  [1549](https://www.beecrowd.com.br/repository/UOJ_1549.html) - Dividindo a Coca *Geometria Computacional*
+- [ ]  [1550](https://www.beecrowd.com.br/repository/UOJ_1550.html) - Inversão *Grafos*
+- [x]  [1551](https://www.beecrowd.com.br/repository/UOJ_1551.html) - [Frase Completa](1551.c) *Strings*
+- [ ]  [1552](https://www.beecrowd.com.br/repository/UOJ_1552.html) - Resgate em Queda Livre *Grafos*
+- [ ]  [1553](https://www.beecrowd.com.br/repository/UOJ_1553.html) - Perguntas mais Frequentes *Ad-Hoc*
+- [ ]  [1554](https://www.beecrowd.com.br/repository/UOJ_1554.html) - Bilhar N+1 *Matemática*
+- [ ]  [1555](https://www.beecrowd.com.br/repository/UOJ_1555.html) - Funções *Matemática*
+- [ ]  [1556](https://www.beecrowd.com.br/repository/UOJ_1556.html) - Removendo Letras *Strings*
+- [x]  [1557](https://www.beecrowd.com.br/repository/UOJ_1557.html) - [Matriz Quadrada III](1557.c) *Iniciante*
+- [ ]  [1558](https://www.beecrowd.com.br/repository/UOJ_1558.html) - Soma de Dois Quadrados *Ad-Hoc*
+- [ ]  [1559](https://www.beecrowd.com.br/repository/UOJ_1559.html) - 2048 *Ad-Hoc*
+- [ ]  [1560](https://www.beecrowd.com.br/repository/UOJ_1560.html) - Energia dos Triângulos *Geometria Computacional*
+- [ ]  [1561](https://www.beecrowd.com.br/repository/UOJ_1561.html) - Relógio Binário *Ad-Hoc*
+- [ ]  [1562](https://www.beecrowd.com.br/repository/UOJ_1562.html) - Escolhendo as Duplas *Grafos*
+- [ ]  [1563](https://www.beecrowd.com.br/repository/UOJ_1563.html) - O Grande Problema *Matemática*
+- [x]  [1564](https://www.beecrowd.com.br/repository/UOJ_1564.html) - [Vai Ter Copa?](1564.c) *Iniciante*
+- [ ]  [1565](https://www.beecrowd.com.br/repository/UOJ_1565.html) - Ligue os Pontos *Paradigmas*
+- [ ]  [1566](https://www.beecrowd.com.br/repository/UOJ_1566.html) - Altura *Estruturas e Bibliotecas*
+- [ ]  [1567](https://www.beecrowd.com.br/repository/UOJ_1567.html) - (2/3/4)-D Sqr/Rects/Cubes/Boxes? *Matemática*
+- [ ]  [1568](https://www.beecrowd.com.br/repository/UOJ_1568.html) - {soma+=i++} até N *Matemática*
+- [ ]  [1569](https://www.beecrowd.com.br/repository/UOJ_1569.html) - Sobe e Desce *Ad-Hoc*
+- [ ]  [1570](https://www.beecrowd.com.br/repository/UOJ_1570.html) - Um Dia na Terra da Matemática *Matemática*
+- [ ]  [1571](https://www.beecrowd.com.br/repository/UOJ_1571.html) - Um Quadrado &amp; Triângulos Equiláteros *Geometria Computacional*
+- [ ]  [1572](https://www.beecrowd.com.br/repository/UOJ_1572.html) - O Torneio Surreal *Matemática*
+- [ ]  [1573](https://www.beecrowd.com.br/repository/UOJ_1573.html) - Fábrica de Chocolate *Ad-Hoc*
+- [ ]  [1574](https://www.beecrowd.com.br/repository/UOJ_1574.html) - Instruções do Robô *Ad-Hoc*
+- [ ]  [1575](https://www.beecrowd.com.br/repository/UOJ_1575.html) - Perseguindo Don Giovanni *Ad-Hoc*
+- [ ]  [1576](https://www.beecrowd.com.br/repository/UOJ_1576.html) - O Problema da Linha do Horizonte *Ad-Hoc*
+- [ ]  [1577](https://www.beecrowd.com.br/repository/UOJ_1577.html) - Polígonos Regulares Construtíveis *Matemática*
+- [ ]  [1578](https://www.beecrowd.com.br/repository/UOJ_1578.html) - Matriz de Quadrados *Ad-Hoc*
+- [ ]  [1579](https://www.beecrowd.com.br/repository/UOJ_1579.html) - Transporte de Painéis Solares *Paradigmas*
+- [ ]  [1580](https://www.beecrowd.com.br/repository/UOJ_1580.html) - Quid Est Veritas? Est Vir Qui Adest! *Matemática*
+- [ ]  [1581](https://www.beecrowd.com.br/repository/UOJ_1581.html) - Conversa Internacional *Strings*
+- [ ]  [1582](https://www.beecrowd.com.br/repository/UOJ_1582.html) - O Teorema de Pitágoras *Matemática*
+- [ ]  [1583](https://www.beecrowd.com.br/repository/UOJ_1583.html) - Contaminação *Grafos*
+- [ ]  [1584](https://www.beecrowd.com.br/repository/UOJ_1584.html) - Espertofone *Grafos*
+- [ ]  [1585](https://www.beecrowd.com.br/repository/UOJ_1585.html) - Fazendo Pandorgas *Matemática*
+- [ ]  [1586](https://www.beecrowd.com.br/repository/UOJ_1586.html) - Cabo de Guerra *Strings*
+- [ ]  [1587](https://www.beecrowd.com.br/repository/UOJ_1587.html) - BIT Park *Estruturas e Bibliotecas*
+- [ ]  [1588](https://www.beecrowd.com.br/repository/UOJ_1588.html) - Ajude a Federação *Ad-Hoc*
+- [x]  [1589](https://www.beecrowd.com.br/repository/UOJ_1589.html) - [Bob Conduite](1589.c) *Iniciante*
+- [ ]  [1590](https://www.beecrowd.com.br/repository/UOJ_1590.html) - Cuarenta e Dois *Paradigmas*
+- [ ]  [1591](https://www.beecrowd.com.br/repository/UOJ_1591.html) - Dia da Vovó *Ad-Hoc*
+- [ ]  [1592](https://www.beecrowd.com.br/repository/UOJ_1592.html) - Elias e Golias *Grafos*
+- [ ]  [1593](https://www.beecrowd.com.br/repository/UOJ_1593.html) - Função Binária *Ad-Hoc*
+- [ ]  [1594](https://www.beecrowd.com.br/repository/UOJ_1594.html) - Guloso *Estruturas e Bibliotecas*
+- [ ]  [1595](https://www.beecrowd.com.br/repository/UOJ_1595.html) - Humm.. Andar ou Correr.. Eis a Questão *Paradigmas*
+- [ ]  [1596](https://www.beecrowd.com.br/repository/UOJ_1596.html) - Torneio de Yusuf II *Paradigmas*
+- [ ]  [1597](https://www.beecrowd.com.br/repository/UOJ_1597.html) - Desmascarando o Empregado do Sultão *Paradigmas*
+- [ ]  [1598](https://www.beecrowd.com.br/repository/UOJ_1598.html) - O Verdadeiro Valor dos Tapetes *Paradigmas*
+- [ ]  [1599](https://www.beecrowd.com.br/repository/UOJ_1599.html) - Picos do Átlas *Paradigmas*

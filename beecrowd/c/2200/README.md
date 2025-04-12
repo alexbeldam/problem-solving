@@ -1,0 +1,102 @@
+# Problemas 2200 (2%)
+
+- [ ]  [2200](https://www.beecrowd.com.br/repository/UOJ_2200.html) - Mummy Madness *Ad-Hoc*
+- [ ]  [2201](https://www.beecrowd.com.br/repository/UOJ_2201.html) - Pyramids *Ad-Hoc*
+- [ ]  [2202](https://www.beecrowd.com.br/repository/UOJ_2202.html) - Trash Removal *Ad-Hoc*
+- [ ]  [2203](https://www.beecrowd.com.br/repository/UOJ_2203.html) - Tempestade de Corvos *Iniciante*
+- [ ]  [2204](https://www.beecrowd.com.br/repository/UOJ_2204.html) - Pare A Bomba! *Matemática*
+- [ ]  [2205](https://www.beecrowd.com.br/repository/UOJ_2205.html) - Asteroid Rangers *Ad-Hoc*
+- [ ] ~~xxxx~~
+- [ ]  [2207](https://www.beecrowd.com.br/repository/UOJ_2207.html) - Bus Tour *Ad-Hoc*
+- [ ]  [2208](https://www.beecrowd.com.br/repository/UOJ_2208.html) - Fibonacci Words *Ad-Hoc*
+- [ ]  [2209](https://www.beecrowd.com.br/repository/UOJ_2209.html) - Infiltration *Ad-Hoc*
+- [ ]  [2210](https://www.beecrowd.com.br/repository/UOJ_2210.html) - Keys *Ad-Hoc*
+- [ ]  [2211](https://www.beecrowd.com.br/repository/UOJ_2211.html) - Minimum Cost Flow *Ad-Hoc*
+- [ ]  [2212](https://www.beecrowd.com.br/repository/UOJ_2212.html) - Room Service *Ad-Hoc*
+- [ ]  [2213](https://www.beecrowd.com.br/repository/UOJ_2213.html) - A Safe Bet *Ad-Hoc*
+- [ ]  [2214](https://www.beecrowd.com.br/repository/UOJ_2214.html) - Shortest Flight Path *Ad-Hoc*
+- [ ]  [2215](https://www.beecrowd.com.br/repository/UOJ_2215.html) - Stacking Plates *Ad-Hoc*
+- [ ]  [2216](https://www.beecrowd.com.br/repository/UOJ_2216.html) - Takeover Wars *Ad-Hoc*
+- [ ]  [2217](https://www.beecrowd.com.br/repository/UOJ_2217.html) - Nove *Ad-Hoc*
+- [ ]  [2218](https://www.beecrowd.com.br/repository/UOJ_2218.html) - O Temível Evil-Son *Matemática*
+- [ ]  [2219](https://www.beecrowd.com.br/repository/UOJ_2219.html) - Passando Pelos PokeStops *Ad-Hoc*
+- [ ]  [2220](https://www.beecrowd.com.br/repository/UOJ_2220.html) - Ajudando Gust-Avô *Paradigmas*
+- [ ]  [2221](https://www.beecrowd.com.br/repository/UOJ_2221.html) - Batalha de Pomekons *Iniciante*
+- [ ]  [2222](https://www.beecrowd.com.br/repository/UOJ_2222.html) - Brincando com Conjuntos *Matemática*
+- [ ]  [2223](https://www.beecrowd.com.br/repository/UOJ_2223.html) - Inventário de Pomekon *Estruturas e Bibliotecas*
+- [ ]  [2224](https://www.beecrowd.com.br/repository/UOJ_2224.html) - Torneio de Pomekon *Paradigmas*
+- [ ]  [2225](https://www.beecrowd.com.br/repository/UOJ_2225.html) - Penalização *Grafos*
+- [ ]  [2226](https://www.beecrowd.com.br/repository/UOJ_2226.html) - Fabrica de Balões *Paradigmas*
+- [ ]  [2227](https://www.beecrowd.com.br/repository/UOJ_2227.html) - Aeroporto *Ad-Hoc*
+- [ ]  [2228](https://www.beecrowd.com.br/repository/UOJ_2228.html) - Caça ao Tesouro *Ad-Hoc*
+- [ ]  [2229](https://www.beecrowd.com.br/repository/UOJ_2229.html) - Dobradura *Ad-Hoc*
+- [ ]  [2230](https://www.beecrowd.com.br/repository/UOJ_2230.html) - Pedágio *Ad-Hoc*
+- [ ]  [2231](https://www.beecrowd.com.br/repository/UOJ_2231.html) - Temperatura Lunar *Ad-Hoc*
+- [ ]  [2232](https://www.beecrowd.com.br/repository/UOJ_2232.html) - Triângulo de Pascal *Matemática*
+- [ ]  [2233](https://www.beecrowd.com.br/repository/UOJ_2233.html) - Etiquetas Coloridas *Ad-Hoc*
+- [ ]  [2234](https://www.beecrowd.com.br/repository/UOJ_2234.html) - Cachorros-Quentes *Iniciante*
+- [ ]  [2235](https://www.beecrowd.com.br/repository/UOJ_2235.html) - Andando no Tempo *Iniciante*
+- [ ]  [2236](https://www.beecrowd.com.br/repository/UOJ_2236.html) - Batata Quente *Paradigmas*
+- [ ]  [2237](https://www.beecrowd.com.br/repository/UOJ_2237.html) - Containers *Ad-Hoc*
+- [ ]  [2238](https://www.beecrowd.com.br/repository/UOJ_2238.html) - Divisores *Matemática*
+- [ ]  [2239](https://www.beecrowd.com.br/repository/UOJ_2239.html) - Estatística Hexa *Estruturas e Bibliotecas*
+- [ ]  [2240](https://www.beecrowd.com.br/repository/UOJ_2240.html) - Fundindo Árvores *Estruturas e Bibliotecas*
+- [ ]  [2241](https://www.beecrowd.com.br/repository/UOJ_2241.html) - Go-- *Estruturas e Bibliotecas*
+- [x]  [2242](https://www.beecrowd.com.br/repository/UOJ_2242.html) - [Huaauhahhuahau](2242.c) *Strings*
+- [ ]  [2243](https://www.beecrowd.com.br/repository/UOJ_2243.html) - Isósceles *Paradigmas*
+- [ ]  [2244](https://www.beecrowd.com.br/repository/UOJ_2244.html) - Jogos Olímpicos *Ad-Hoc*
+- [ ]  [2245](https://www.beecrowd.com.br/repository/UOJ_2245.html) - Kit de Encolhimento de Polígonos *Geometria Computacional*
+- [ ]  [2246](https://www.beecrowd.com.br/repository/UOJ_2246.html) - Ladrilhos *Grafos*
+- [ ]  [2247](https://www.beecrowd.com.br/repository/UOJ_2247.html) - Cofrinhos da Vó Vitória *Ad-Hoc*
+- [ ]  [2248](https://www.beecrowd.com.br/repository/UOJ_2248.html) - Estágio *Ad-Hoc*
+- [ ]  [2249](https://www.beecrowd.com.br/repository/UOJ_2249.html) - Número de Erdos *Ad-Hoc*
+- [ ]  [2250](https://www.beecrowd.com.br/repository/UOJ_2250.html) - Tetris *Ad-Hoc*
+- [ ]  [2251](https://www.beecrowd.com.br/repository/UOJ_2251.html) - Torres de Hanói *Ad-Hoc*
+- [ ]  [2252](https://www.beecrowd.com.br/repository/UOJ_2252.html) - Descobrindo Senha *Ad-Hoc*
+- [x]  [2253](https://www.beecrowd.com.br/repository/UOJ_2253.html) - [Validador de Senhas](2253.c) *Strings*
+- [ ]  [2254](https://www.beecrowd.com.br/repository/UOJ_2254.html) - Bem-me-quer, Malmequer Japonês *Ad-Hoc*
+- [ ]  [2255](https://www.beecrowd.com.br/repository/UOJ_2255.html) - Self-Assembly *Ad-Hoc*
+- [ ] ~~xxxx~~
+- [ ]  [2257](https://www.beecrowd.com.br/repository/UOJ_2257.html) - Surely You Congest *Ad-Hoc*
+- [ ]  [2258](https://www.beecrowd.com.br/repository/UOJ_2258.html) - Factors *Ad-Hoc*
+- [ ]  [2259](https://www.beecrowd.com.br/repository/UOJ_2259.html) - Harvard *Ad-Hoc*
+- [ ]  [2260](https://www.beecrowd.com.br/repository/UOJ_2260.html) - Low Power *Ad-Hoc*
+- [ ]  [2261](https://www.beecrowd.com.br/repository/UOJ_2261.html) - Map Tiles *Ad-Hoc*
+- [ ]  [2262](https://www.beecrowd.com.br/repository/UOJ_2262.html) - Matryoshka *Ad-Hoc*
+- [ ]  [2263](https://www.beecrowd.com.br/repository/UOJ_2263.html) - Pirate Chest *Ad-Hoc*
+- [ ] ~~xxxx~~
+- [ ]  [2265](https://www.beecrowd.com.br/repository/UOJ_2265.html) - Up a Tree *Ad-Hoc*
+- [ ]  [2266](https://www.beecrowd.com.br/repository/UOJ_2266.html) - Baggage *Ad-Hoc*
+- [ ] ~~xxxx~~
+- [ ]  [2268](https://www.beecrowd.com.br/repository/UOJ_2268.html) - Crane Balancing *Ad-Hoc*
+- [ ] ~~xxxx~~
+- [ ]  [2270](https://www.beecrowd.com.br/repository/UOJ_2270.html) - Maze Reduction *Ad-Hoc*
+- [ ] ~~xxxx~~
+- [ ]  [2272](https://www.beecrowd.com.br/repository/UOJ_2272.html) - Metal Processing Plant *Ad-Hoc*
+- [ ] ~~xxxx~~
+- [ ] ~~xxxx~~
+- [ ]  [2275](https://www.beecrowd.com.br/repository/UOJ_2275.html) - Skiing *Ad-Hoc*
+- [ ]  [2276](https://www.beecrowd.com.br/repository/UOJ_2276.html) - Surveillance *Ad-Hoc*
+- [ ] ~~xxxx~~
+- [ ]  [2278](https://www.beecrowd.com.br/repository/UOJ_2278.html) - Amalgamated Artichokes *Ad-Hoc*
+- [ ]  [2279](https://www.beecrowd.com.br/repository/UOJ_2279.html) - Asteroids *Ad-Hoc*
+- [ ]  [2280](https://www.beecrowd.com.br/repository/UOJ_2280.html) - Catering *Ad-Hoc*
+- [ ]  [2281](https://www.beecrowd.com.br/repository/UOJ_2281.html) - Cutting Cheese *Ad-Hoc*
+- [ ]  [2282](https://www.beecrowd.com.br/repository/UOJ_2282.html) - Evolution in Parallel *Ad-Hoc*
+- [ ]  [2283](https://www.beecrowd.com.br/repository/UOJ_2283.html) - Keyboarding *Ad-Hoc*
+- [ ]  [2284](https://www.beecrowd.com.br/repository/UOJ_2284.html) - Pipe Stream *Ad-Hoc*
+- [ ]  [2285](https://www.beecrowd.com.br/repository/UOJ_2285.html) - Palíndrome *Ad-Hoc*
+- [ ]  [2286](https://www.beecrowd.com.br/repository/UOJ_2286.html) - Par ou Ímpar *Ad-Hoc*
+- [ ]  [2287](https://www.beecrowd.com.br/repository/UOJ_2287.html) - Proteja sua Senha *Ad-Hoc*
+- [ ]  [2288](https://www.beecrowd.com.br/repository/UOJ_2288.html) - TV da Vovó *Ad-Hoc*
+- [ ]  [2289](https://www.beecrowd.com.br/repository/UOJ_2289.html) - Distância Hamming *Ad-Hoc*
+- [ ]  [2290](https://www.beecrowd.com.br/repository/UOJ_2290.html) - Números Apaixornados *Estruturas e Bibliotecas*
+- [ ]  [2291](https://www.beecrowd.com.br/repository/UOJ_2291.html) - Números Divinos *Matemática*
+- [ ]  [2292](https://www.beecrowd.com.br/repository/UOJ_2292.html) - Painel LED *Strings*
+- [ ]  [2293](https://www.beecrowd.com.br/repository/UOJ_2293.html) - Campo de Minhocas *Ad-Hoc*
+- [ ]  [2294](https://www.beecrowd.com.br/repository/UOJ_2294.html) - Duende Perdido *Ad-Hoc*
+- [ ]  [2295](https://www.beecrowd.com.br/repository/UOJ_2295.html) - Frota de Táxi *Ad-Hoc*
+- [ ]  [2296](https://www.beecrowd.com.br/repository/UOJ_2296.html) - Trilhas *Ad-Hoc*
+- [ ]  [2297](https://www.beecrowd.com.br/repository/UOJ_2297.html) - Bafo *Ad-Hoc*
+- [ ]  [2298](https://www.beecrowd.com.br/repository/UOJ_2298.html) - Mini-Poker *Ad-Hoc*
+- [ ]  [2299](https://www.beecrowd.com.br/repository/UOJ_2299.html) - Pedido de Desculpas *Paradigmas*
